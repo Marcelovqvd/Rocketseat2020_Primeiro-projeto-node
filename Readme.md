@@ -22,3 +22,5 @@ yarn add eslint-import-resolver-typescript -D (para habilitar import/export)
 uuidv4 para formar id
 yarn add uuidv4
 
+Para validar datas
+yarn add date-fns
