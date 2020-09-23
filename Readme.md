@@ -1,7 +1,6 @@
-# Módulo 2 - aula 'Primeiro Projeto com NodeJS' do Bootcamp GoStack da Rocketseat 2020
+# Módulo 2 - 'Primeiro Projeto com NodeJS' do Bootcamp GoStack da Rocketseat - 2020
 
 Projeto desenvolvido para estudo de Back-end com princípios SOLID e utilizando os conceitos de models, repositories e services!
-
 
 ## Dependências e libs
 
