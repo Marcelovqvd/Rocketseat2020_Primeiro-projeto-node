@@ -1,6 +1,10 @@
+<p align="center">
+  <img  src="./assets/Node.js_logo.svg">
+</p>
+
 # Módulo 2 - 'Primeiro Projeto com NodeJS' do Bootcamp GoStack da Rocketseat - 2020
 
-Projeto desenvolvido para estudo de Back-end com princípios SOLID e utilizando os conceitos de models, repositories e services!
+:rocket: Projeto desenvolvido para estudo de Back-end com princípios SOLID e utilizando os conceitos de models, repositories e services!
 
 ## Dependências e libs
 
@@ -38,3 +42,15 @@ Criação de id
 * date-fns
       yarn add date-fns
 Para validar datas
+
+### Rotas da aplicação
+
+- **`POST /appointments`**: A rota deve receber `id`, `provider` e `date` dentro do corpo da requisição.
+
+- **`GET /appointments`**: Rota que lista todos os agendamentos.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Finalizado
